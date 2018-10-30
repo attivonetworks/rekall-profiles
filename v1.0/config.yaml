@@ -140,6 +140,7 @@ OSX:
     - src/OSX/10.11.6_15G24b.64bit
     - src/OSX/10.13.3_17D47.64bit
     - src/OSX/10.10.5_14F2511.64bit
+    - src/OSX/10.12.6_16G29.64bit
 
 
 Linux:
